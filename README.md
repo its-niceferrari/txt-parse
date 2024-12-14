@@ -1,8 +1,17 @@
 # txt_parse
-A Python script that will log all filenames (and its content if saved in the .txt extension) within a specified directory.
+A Python script for logging all filenames in a specified directory and displaying their contents if they are .txt files. The results are saved in a log file.
 
-## Installing
-Make sure Python is installed on your computer.
+## Installation
+1. Clone or download the script to your computer.
+2. Ensure Python is installed by running 'python --version' or 'python3 --version' in your terminal.
 
-## Using
-Specify the directory that you want to parse through in the terminal. Once the script finishes, the terminal window will close. You can find the results in the log file that will be in the same directory as the Python file.
+## Usage
+1. Open a terminal or command prompt.
+2. Navigate to the folder containing the script using the cd command.
+3. Run the script:
+'python txt_parse.py'
+or 
+'python3 txt_parse.py'
+4. Enter the directory path when prompted. For example:
+'Input the directory to parse: C:\Users\YourName\Documents'
+5. Once the script finishes, you can find the results in the txt_parse.log file located in the same folder as the script.
