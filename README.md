@@ -8,6 +8,6 @@ A Python script for logging all filenames in a specified directory and displayin
 ## Usage
 1. Open a terminal or command prompt.
 2. Navigate to the folder containing the script using the cd command.
-3. Run the script: ```python main.py``` or ```python3 main.py```
+3. Run the script: ```python txtparse.py``` or ```python3 txtparse.py```
 4. Enter the directory path when prompted. For example: ```Input the directory to parse: C:\Users\YourName\Documents```
 5. Once the script finishes, you can find the results in the txt_parse.log file located in the same folder as the script.
